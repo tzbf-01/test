@@ -14,8 +14,8 @@ git commit -m  "备注"
 
 换分支  
 git checkout branch_name  
-	代码合并  
-	git merge 被修改的分支_name
+	    代码合并  
+	    git merge 被修改的分支_name
 
 上传  
 git push origin branch_name
