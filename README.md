@@ -3,7 +3,7 @@
 查看分支  
 git branch
 
-创建并进入分支 
+创建并进入分支  
 git checkout -b branch_name
 
 暂存 
